@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.main_table {
+  thead {
+    background-color: tomato;
+    th {
+      padding: 5px 10px;
+    }
+  }
+}
